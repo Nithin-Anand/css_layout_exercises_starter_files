@@ -25,9 +25,10 @@ body {
 }
 
 .inner-second{
-	width: 33%;
+	width: 33.33%;
 	height: 300px;
 	display: inline-block;
+	border: 1px solid black;
 
 }
 .green {
